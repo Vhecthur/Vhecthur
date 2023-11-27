@@ -1,6 +1,7 @@
 ### Olá, me chamo Arthur Lima!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_lustry/)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/java-curso-completo/)
+[![AMD](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]
 
 
 ![Vhector GitHub stats](https://github-readme-stats.vercel.app/api?username=vhecthur&show_icons=true&theme=radical)
