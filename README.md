@@ -1,6 +1,6 @@
 ### Olá, me chamo Arthur Lima!
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Echroum/featured)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_lustry/?next=%2Fverdant.atelier%2F)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/java-curso-completo/)
 
 
 ![Vhector GitHub stats](https://github-readme-stats.vercel.app/api?username=vhecthur&show_icons=true&theme=radical)
